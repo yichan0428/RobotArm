@@ -1,0 +1,16 @@
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Release\WindowsFormsTCP_Client.exe
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Release\WindowsFormsTCP_Client.pdb
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.csprojResolveAssemblyReference.cache
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.WindowsFormsClient.resources
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.Properties.Resources.resources
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.csproj.GenerateResource.Cache
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.exe
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.pdb
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.exe
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.pdb
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Release\WindowsFormsTCP_Client.exe
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Release\WindowsFormsTCP_Client.pdb
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.WindowsFormsClient.resources
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Release\WindowsFormsTCP_Client.csproj.CoreCompileInputs.cache

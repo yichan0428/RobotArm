@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Debug\WindowsFormsTCP_Client.exe
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Debug\WindowsFormsTCP_Client.pdb
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Debug\WindowsFormsTCP_Client.WindowsFormsClient.resources
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Debug\WindowsFormsTCP_Client.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Debug\WindowsFormsTCP_Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Debug\WindowsFormsTCP_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Debug\WindowsFormsTCP_Client.exe
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Debug\WindowsFormsTCP_Client.pdb
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Debug\WindowsFormsTCP_Client.csprojAssemblyReference.cache

@@ -1,0 +1,32 @@
+c:\users\ken_liang\documents\visual studio 2010\Projects\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.exe
+c:\users\ken_liang\documents\visual studio 2010\Projects\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.pdb
+c:\users\ken_liang\documents\visual studio 2010\Projects\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.WindowsFormsClient.resources
+c:\users\ken_liang\documents\visual studio 2010\Projects\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.Properties.Resources.resources
+c:\users\ken_liang\documents\visual studio 2010\Projects\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csproj.GenerateResource.Cache
+c:\users\ken_liang\documents\visual studio 2010\Projects\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.exe
+c:\users\ken_liang\documents\visual studio 2010\Projects\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.pdb
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.exe
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.pdb
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.exe
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.pdb
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csprojResolveAssemblyReference.cache
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.WindowsFormsClient.resources
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.Properties.Resources.resources
+D:\Solomon\Project\Project_TCI\Tools\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.exe
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.pdb
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.WindowsFormsClient.resources
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.exe
+C:\Users\user\Desktop\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.pdb
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.exe
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.pdb
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.exe
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\bin\x64\Demo\WindowsFormsTCP_Client.pdb
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csprojResolveAssemblyReference.cache
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.WindowsFormsClient.resources
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.Properties.Resources.resources
+C:\Users\yicha\Desktop\RobotArm\Meca500\WindowsFormsTCP_Client\WindowsFormsTCP_Client\obj\x64\Demo\WindowsFormsTCP_Client.csproj.GenerateResource.Cache
