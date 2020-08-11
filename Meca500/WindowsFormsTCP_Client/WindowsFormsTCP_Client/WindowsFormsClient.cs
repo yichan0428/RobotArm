@@ -15,6 +15,7 @@ namespace WindowsFormsTCP_Client
 {
     public partial class WindowsFormsClient : Form
     {
+
         //===============================================================
         //===============================================================
         //寫入文字檔案功能函式。
@@ -57,6 +58,10 @@ namespace WindowsFormsTCP_Client
         public WindowsFormsClient()
         {
             InitializeComponent();
+            
+            //Initial window position setting
+            this.StartPosition = FormStartPosition.Manual; 
+            this.Location = (Point)new Size(2420, 470); 
         }
 
         //==================================================================
@@ -89,7 +94,7 @@ namespace WindowsFormsTCP_Client
             }
             else
             {
-                Button_Client_Connect.Text = "Connect";
+                ConnectBtn.Text = "Connect";
                 Disconnect();
             }
         }//Lost connection with server
@@ -109,7 +114,7 @@ namespace WindowsFormsTCP_Client
             TextBox_Port.Text = "10000";
 
             TextBox_Send_Data.Enabled = false;
-            button2.Enabled = false;
+            ActivateBtn.Enabled = false;
         }
 
         private void WindowsFormsClient_Load(object sender, EventArgs e)
@@ -127,10 +132,10 @@ namespace WindowsFormsTCP_Client
             TextBox_IP_Field_3.Enabled = bEnable;
             TextBox_IP_Field_4.Enabled = bEnable;
             TextBox_Port.Enabled = bEnable;
- 
-            Button_Client_Connect.Enabled = !bEnable;
+
+            ConnectBtn.Enabled = !bEnable;
             TextBox_Send_Data.Enabled = !bEnable;
-            button2.Enabled = !bEnable;
+            ActivateBtn.Enabled = !bEnable;
         }
 
         public void Disconnect()
@@ -142,10 +147,10 @@ namespace WindowsFormsTCP_Client
             TextBox_IP_Field_4.Enabled = bEnable;
 
             TextBox_Port.Enabled = bEnable;
-            Button_Client_Connect.Enabled = bEnable;
+            ConnectBtn.Enabled = bEnable;
 
             TextBox_Send_Data.Enabled = !bEnable;
-            button2.Enabled = !bEnable;
+            ActivateBtn.Enabled = !bEnable;
         }
 
         public void Connecting(bool bLockUI)
@@ -160,10 +165,10 @@ namespace WindowsFormsTCP_Client
 
                 TextBox_Port.Enabled = bEnable;
 
-                Button_Client_Connect.Enabled = bEnable;
+                ConnectBtn.Enabled = bEnable;
 
                 TextBox_Send_Data.Enabled = bEnable;
-                button2.Enabled = bEnable;
+                ActivateBtn.Enabled = bEnable;
             }
             else
             {
@@ -175,14 +180,14 @@ namespace WindowsFormsTCP_Client
 
                 TextBox_Port.Enabled = bEnable;
 
-                Button_Client_Connect.Enabled = bEnable;
+                ConnectBtn.Enabled = bEnable;
 
                 TextBox_Send_Data.Enabled = bEnable;
-                button2.Enabled = bEnable;
+                ActivateBtn.Enabled = bEnable;
             }
         }
 
-        private void Button_Client_Connect_Click(object sender, EventArgs e)
+        private void Connect_Click(object sender, EventArgs e)
         {
             Connecting(false);
 
@@ -253,12 +258,12 @@ namespace WindowsFormsTCP_Client
             // Redraw client button status
             if (GeneralClient.ClientIsConnected())
             {
-                Button_Client_Connect.Text = "Disonnect";
+                ConnectBtn.Text = "Disonnect";
                 Connected();
             }
             else
             {
-                Button_Client_Connect.Text = "Connect";
+                ConnectBtn.Text = "Connect";
                 Disconnect();
             }
         }
@@ -327,25 +332,18 @@ namespace WindowsFormsTCP_Client
             Close();
         }
 
-
-        private void GroupBox_Send_Enter(object sender, EventArgs e)
+        private void Activate_Click(object sender, EventArgs e)
         {
-
-        }
-
-
-        private void Button_ActivateRobot_Click(object sender, EventArgs e)
-        {
-            if (button2.Text == "Activate")
+            if (ActivateBtn.Text == " Activate")        //watch out the space
             {
                 GeneralClient.ClientSendData("ActivateRobot");
                 GeneralClient.ClientSendData("Home");
-                button2.Text = "Deactivate";
+                ActivateBtn.Text = " Deactivate";
             }
-            else if (button2.Text == "Deactivate")
+            else if (ActivateBtn.Text == " Deactivate")
             {
                 GeneralClient.ClientSendData("DeactivateRobot");
-                button2.Text = "Activate";
+                ActivateBtn.Text = " Activate";
             }
 
         }
@@ -392,6 +390,34 @@ namespace WindowsFormsTCP_Client
         private void Start_Click(object sender, EventArgs e)
         {
             Motion.Demo0811(9, 5, 1, 15, 1, 1); //4, 8, 2, 10, 2, 1
+        }
+
+        private void Close_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void MinimumBtn_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void SettingButton_Click(object sender, EventArgs e)
+        {
+            SidePanel.Height = SettingButton.Height;
+            SidePanel.Top = SettingButton.Top;
+        }
+
+        private void Introduction_Click(object sender, EventArgs e)
+        {
+            SidePanel.Height = Introduction.Height;
+            SidePanel.Top = Introduction.Top;
+        }
+
+        private void RobotArm_Click_Click(object sender, EventArgs e)
+        {
+            SidePanel.Height = RobotArm_Click.Height;
+            SidePanel.Top = RobotArm_Click.Top;
         }
     }
 }
