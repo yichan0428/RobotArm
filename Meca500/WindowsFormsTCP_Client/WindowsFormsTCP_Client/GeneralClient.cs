@@ -197,8 +197,7 @@ namespace wGeneralClient
             {
                 if (bIsConnected)
                 {
-                    strData += "\0";
-
+                    strData += "\0";    
                     // Send test data to the remote device.
                     Send(client, strData);
                     sendDone.WaitOne();

@@ -61,7 +61,7 @@ namespace WindowsFormsTCP_Client
             
             //Initial window position setting
             this.StartPosition = FormStartPosition.Manual; 
-            this.Location = (Point)new Size(2420, 470); 
+            this.Location = (Point)new Size(2430, 470); 
         }
 
         //==================================================================
@@ -198,7 +198,7 @@ namespace WindowsFormsTCP_Client
             string strIP_Field4 = TextBox_IP_Field_4.Text;
             string strPort = TextBox_Port.Text;
             int iPort = Convert.ToInt32(strPort);
-
+            
             // OK, to do the job
             bool bCurrentStatus = false; 
             if (strIP_Field1 == "" || strIP_Field2 == "" || strIP_Field3 == "" || strIP_Field4 == "")
